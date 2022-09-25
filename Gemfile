@@ -19,7 +19,7 @@ group :test do
 end
 
 group :development do
-  gem 'sqlite3', '~> 1.4.0'
+  gem 'sqlite3', '~> 1.5.0'
 end
 
 group :production do
